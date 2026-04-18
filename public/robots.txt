@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/  # Don't want search engines crawling admin pages
+Allow: /  # Allow crawling on all other pages
